@@ -1,0 +1,26 @@
+.main{
+    width: 400px;
+    height: 325px;
+    background-color: #EEEEEE;
+    box-shadow: 4px 4px 4px 5px darkgray;
+ margin: 0 auto;
+    margin-top: 20px;
+   
+}
+input{
+    width: 390px;
+    height: 80px;
+text-align: right;
+    font-size: 40px;
+}
+.btn{
+
+    padding: 10px;
+    width: 96px;
+    font-weight: bold;
+    font-size: 20px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
